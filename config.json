@@ -2,5 +2,9 @@
   "server": "gm-cloud.org.uk",
   "home-timeline-length": 200,
   "max-followings": 2000,
-  "from-notifications": 1
+  "max-followers": 2000,
+  "from-notifications": 1,
+  "reply-interval-in-hours": 1,
+  "backfill-with-context": 1,
+  "backfill-mentioned-users": 1
 }
